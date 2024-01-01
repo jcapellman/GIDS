@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+*.lock.json
+/Properties/PublishProfiles
+packages/
+src/Release/*
+src/*/Release/*
+Debug/*
+src/*/Debug/*
+src/Debug/*
+*.user
+src/cwg.sourceDLL/x64/*
+src/cwg.sourcePE/x64/*
+src/cwg.web/wwwroot/lib/*
+/src/.vscode
